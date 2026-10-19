@@ -63,7 +63,7 @@ class NB:
   <tr>
     <th>
         <div style="text-align: center; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-<p style="text-align: center;"> Конспект лекцій з предмету: </p>
+<p style="text-align: center;"> Конспект лекцій з дисципліни: </p>
 <p style="text-align: center;"><b><h2>"Електронні прилади та мікроелектроніка"</h2></b></p>
 <p style="text-align: center;"><b><h3>Лекція {int(self.num)}. {title(self.num)}</h3></b></p>
 <p style="text-align: center;"> Національний університет "Чернігівська політехніка"</p>
